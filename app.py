@@ -10,6 +10,7 @@ csv_file_path = "assets/timetracker2.csv"
 df = pd.read_csv(csv_file_path)
 
 app = Dash(__name__)
+server = app.server
 
 datelist = df['Date'].unique()
 
