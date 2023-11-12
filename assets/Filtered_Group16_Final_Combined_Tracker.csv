@@ -1,0 +1,345 @@
+Day,Date,Activity,How I feel,Duration (mins),Generalized Activity,Value
+Monday,09/10/2023,Data Analytics Class,Good,150,Education & Learning,3
+Monday,09/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Monday,09/10/2023,Going home ,Great,50,Transportation & Commute,2
+Monday,09/10/2023,Leisure,Great,240,Leisure & Entertainment,1
+Monday,09/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Monday,09/10/2023,Leisure,Great,220,Leisure & Entertainment,1
+Monday,09/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Monday,09/10/2023,Learning Functional Programming,Great,160,Education & Learning,3
+Tuesday,10/10/2023,Breakfast,Great,15,Meals & Nutrition,3
+Tuesday,10/10/2023,F2F Class,Okay,360,Education & Learning,0
+Tuesday,10/10/2023,Takes a bath,Good,16,Personal Care & Wellbeing,2
+Tuesday,10/10/2023,Breakfast,Great,12,Meals & Nutrition,3
+Tuesday,10/10/2023,School transport,Okay,37,Transportation & Commute,0
+Tuesday,10/10/2023,Networking class,Good,132,Education & Learning,3
+Tuesday,10/10/2023,Sleep,Okay,146,Personal Care & Wellbeing,2
+Tuesday,10/10/2023,School transport,Good,34,Transportation & Commute,0
+Tuesday,10/10/2023,Dinner,Good,22,Meals & Nutrition,3
+Tuesday,10/10/2023,Sleep,Okay,418,Personal Care & Wellbeing,3
+Tuesday,10/10/2023,Breakfast,Good,10,Meals & Nutrition,2
+Tuesday,10/10/2023,Automata class,Good,84,Education & Learning,3
+Tuesday,10/10/2023,Check news ,Okay,20,Leisure & Entertainment,2
+Tuesday,10/10/2023,Linux System Maintenance,Good,20,Education & Learning,3
+Tuesday,10/10/2023,Traveling home,Okay,60,Transportation & Commute,0
+Tuesday,10/10/2023,F2F Class,Okay,180,Education & Learning,1
+Tuesday,10/10/2023,Sleep,Great,180,Personal Care & Wellbeing,2
+Tuesday,10/10/2023,Doing Chores,Okay,480,Personal Care & Wellbeing,2
+Tuesday,10/10/2023,Learn Functional Programming (Javascript),Great,190,Education & Learning,3
+Tuesday,10/10/2023,Shower,Good,30,Personal Care & Wellbeing,2
+Tuesday,10/10/2023,Sleep,Great,480,Personal Care & Wellbeing,3
+Tuesday,10/10/2023,Browsing internet,Good,15,Leisure & Entertainment,2
+Tuesday,10/10/2023,Leisure,Good,250,Leisure & Entertainment,1
+Tuesday,10/10/2023,Dinner,Good,20,Meals & Nutrition,2
+Tuesday,10/10/2023,Work on activities & assignments,Good,240,Work & Productivity,3
+Tuesday,10/10/2023,Leisure,Great,160,Leisure & Entertainment,1
+Tuesday,10/10/2023,Lunch,Good,20,Meals & Nutrition,2
+Tuesday,10/10/2023,Sleep,Good,450,Personal Care & Wellbeing,3
+Wednesday,11/10/2023,Leisure,Good,150,Leisure & Entertainment,1
+Wednesday,11/10/2023,Data Management 2 Class (Online),Good,150,Education & Learning,3
+Wednesday,11/10/2023,Linux System Maintenance,Good,30,Education & Learning,3
+Wednesday,11/10/2023,Preparing for Industry Elective Class (F2P),Good,60,Education & Learning,2
+Wednesday,11/10/2023,Go to school,Good ,60,Transportation & Commute,3
+Wednesday,11/10/2023,Sleep,Good,540,Personal Care & Wellbeing,3
+Wednesday,11/10/2023,Going home ,Great,60,Transportation & Commute,2
+Wednesday,11/10/2023,Leisure,Great,160,Leisure & Entertainment,1
+Wednesday,11/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Wednesday,11/10/2023,Study SQL (MariaDB) using CLI,Great,100,Education & Learning,3
+Wednesday,11/10/2023,Industry Elective Class,Good,150,Education & Learning,3
+Wednesday,11/10/2023,Breakfast,Good,30,Meals & Nutrition,3
+Thursday,12/10/2023,Learning ReactJS,Good,210,Education & Learning,3
+Thursday,12/10/2023,Linux System Maintenance,Great,30,Education & Learning,3
+Thursday,12/10/2023,Leisure,Great,160,Leisure & Entertainment,1
+Thursday,12/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Thursday,12/10/2023,Leisure,Great,190,Leisure & Entertainment,1
+Thursday,12/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Thursday,12/10/2023,Checking Github,Good,30,Work & Productivity,2
+Thursday,12/10/2023,Learning Rust,Good,70,Education & Learning,3
+Thursday,12/10/2023,Breakfast,Good,20,Meals & Nutrition,3
+Thursday,12/10/2023,Leisure,Good,120,Leisure & Entertainment,1
+Thursday,12/10/2023,Sleep,Good,510,Personal Care & Wellbeing,3
+Friday,13/10/2023,Watching Movie,Great,60,Leisure & Entertainment,2
+Friday,13/10/2023,Traveling home,Okay,45,Transportation & Commute,1
+Friday,13/10/2023,Brunch,Great,15,Meals & Nutrition,1
+Friday,13/10/2023,Nap,Great,90,Personal Care & Wellbeing,3
+Friday,13/10/2023,Play online games,Great,240,Leisure & Entertainment,3
+Friday,13/10/2023,Dinner,Great,15,Meals & Nutrition,3
+Friday,13/10/2023,Work on activities & assignments,Good,220,Work & Productivity,3
+Friday,13/10/2023,Breakfast,Great,12,Meals & Nutrition,3
+Friday,13/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Friday,13/10/2023,F2F Class,Okay,150,Education & Learning,0
+Friday,13/10/2023,Traveling home,Good,35,Transportation & Commute,0
+Friday,13/10/2023,Leisure,Great,200,Leisure & Entertainment,1
+Friday,13/10/2023,Linux System Maintenance,Good,20,Education & Learning,3
+Friday,13/10/2023,Check news ,Good,30,Leisure & Entertainment,3
+Friday,13/10/2023,Breakfast,Good,20,Meals & Nutrition,3
+Friday,13/10/2023,Watching tiktok,Okay,15,Leisure & Entertainment,1
+Friday,13/10/2023,Accenture udemy,Great,87,Education & Learning,3
+Friday,13/10/2023,Dinner,Good,14,Meals & Nutrition,1
+Friday,13/10/2023,Sleep,Okay,123,Personal Care & Wellbeing,2
+Friday,13/10/2023,Accenture udemy,Great,237,Education & Learning,1
+Friday,13/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Friday,13/10/2023,Leisure,Good,180,Leisure & Entertainment,1
+Friday,13/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Friday,13/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Friday,13/10/2023,Takes a bath,Good,24,Personal Care & Wellbeing,1
+Friday,13/10/2023,Analytics project,Okay,152,Education & Learning,3
+Friday,13/10/2023,Lunch,Good,18,Meals & Nutrition,2
+Friday,13/10/2023,Work on activities & assignments,Good,220,Work & Productivity,3
+Friday,13/10/2023,Sleep,Okay,508,Personal Care & Wellbeing,3
+Saturday,14/10/2023,Going home ,Great,60,Transportation & Commute,2
+Saturday,14/10/2023,Linux System Maintenance,Good,10,Education & Learning,3
+Saturday,14/10/2023,Dinner,Great,15,Meals & Nutrition,2
+Saturday,14/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Saturday,14/10/2023,Sleep,Great,30,Personal Care & Wellbeing,3
+Saturday,14/10/2023,Brunch,Good,15,Meals & Nutrition,1
+Saturday,14/10/2023,Check news ,Good,20,Leisure & Entertainment,3
+Saturday,14/10/2023,Industry Elective Class,Good,150,Education & Learning,3
+Saturday,14/10/2023,Preparing for Industry Elective Class (F2P),Good,120,Education & Learning,3
+Saturday,14/10/2023,Data Management 2 Class (Online),Good,150,Education & Learning,3
+Saturday,14/10/2023,Breakfast,Good,30,Meals & Nutrition,3
+Saturday,14/10/2023,Sleep,Okay,448,Personal Care & Wellbeing,3
+Saturday,14/10/2023,Breakfast,Good,23,Meals & Nutrition,2
+Saturday,14/10/2023,Social media,Great,237,Leisure & Entertainment,1
+Saturday,14/10/2023,Lunch,Great,24,Meals & Nutrition,2
+Saturday,14/10/2023,Accenture udemy,Great,328,Education & Learning,3
+Saturday,14/10/2023,Dinner,Good,23,Meals & Nutrition,3
+Saturday,14/10/2023,Leisure,Great,180,Leisure & Entertainment,1
+Saturday,14/10/2023,Traveling home,Okay,45,Transportation & Commute,0
+Saturday,14/10/2023,Play Basketball,Great,150,Leisure & Entertainment,3
+Saturday,14/10/2023,Work on activities & assignments,Good,100,Work & Productivity,3
+Saturday,14/10/2023,Shower,Good,45,Personal Care & Wellbeing,2
+Saturday,14/10/2023,Leisure,Good,180,Leisure & Entertainment,1
+Saturday,14/10/2023,Sleep,Good,520,Personal Care & Wellbeing,3
+Saturday,14/10/2023,Traveling home,Okay,45,Transportation & Commute,0
+Saturday,14/10/2023,Watch Tiktok,Okay,25,Leisure & Entertainment,1
+Saturday,14/10/2023,Sleep,Great,480,Personal Care & Wellbeing,2
+Saturday,14/10/2023,Accenture udemy,Great,178,Education & Learning,3
+Saturday,14/10/2023,Watching Movie,Great,60,Leisure & Entertainment,3
+Sunday,15/10/2023,Work on activities & assignments,Good,220,Work & Productivity,3
+Sunday,15/10/2023,Dinner,Great,24,Meals & Nutrition,2
+Sunday,15/10/2023,Analytics project,Great,328,Education & Learning,3
+Sunday,15/10/2023,Lunch,Good,14,Meals & Nutrition,2
+Sunday,15/10/2023,Play games,Great,237,Leisure & Entertainment,1
+Sunday,15/10/2023,Watching Movie,Great,60,Leisure & Entertainment,3
+Sunday,15/10/2023,Read manga,Great,90,Leisure & Entertainment,3
+Sunday,15/10/2023,Traveling home,Good,45,Transportation & Commute,0
+Sunday,15/10/2023,Breakfast,Great,22,Meals & Nutrition,3
+Sunday,15/10/2023,Leisure,Good,60,Leisure & Entertainment,1
+Sunday,15/10/2023,Sunday Mass,Good,60,Social & Family Life,3
+Sunday,15/10/2023,Leisure,Good,60,Leisure & Entertainment,1
+Sunday,15/10/2023,Analytics project,Great,122,Education & Learning,3
+Sunday,15/10/2023,Going out to eat with family,Great,120,Social & Family Life,3
+Sunday,15/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Sunday,15/10/2023,Leisure,Great,110,Leisure & Entertainment,1
+Sunday,15/10/2023,Linux System Maintenance,Good,20,Education & Learning,3
+Sunday,15/10/2023,Check news ,Good,30,Leisure & Entertainment,2
+Sunday,15/10/2023,Breakfast,Good,20,Meals & Nutrition,3
+Sunday,15/10/2023,Sleep,Good,390,Personal Care & Wellbeing,3
+Sunday,15/10/2023,Work on activities & assignments,Good,120,Work & Productivity,3
+Sunday,15/10/2023,Sleep,Okay,388,Personal Care & Wellbeing,3
+Sunday,15/10/2023,Nap,Good,240,Personal Care & Wellbeing,3
+Sunday,15/10/2023,Lunch,Great,60,Meals & Nutrition,1
+Sunday,15/10/2023,Brunch,Okay,15,Meals & Nutrition,2
+Sunday,15/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Sunday,15/10/2023,Social media,Great,58,Leisure & Entertainment,1
+Sunday,15/10/2023,Dinner,Great,15,Meals & Nutrition,2
+Sunday,15/10/2023,Play online games,Good,90,Leisure & Entertainment,3
+Sunday,15/10/2023,Online Class ,Okay,150,Education & Learning,0
+Monday,16/10/2023,Brunch,Okay,15,Meals & Nutrition,3
+Monday,16/10/2023,Going home ,Good,50,Transportation & Commute,2
+Monday,16/10/2023,Linux System Maintenance,Good,30,Education & Learning,3
+Monday,16/10/2023,Dinner,Great,15,Meals & Nutrition,2
+Monday,16/10/2023,Data Analytics Class,Good,150,Education & Learning,3
+Monday,16/10/2023,F2F class,Great,120,Education & Learning,0
+Monday,16/10/2023,Sleep,Great,480,Personal Care & Wellbeing,3
+Monday,16/10/2023,Leisure,Good,40,Leisure & Entertainment,1
+Monday,16/10/2023,Sleep,Great,480,Personal Care & Wellbeing,2
+Monday,16/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Monday,16/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Monday,16/10/2023,Waiting to go home,Okay,60,Transportation & Commute,1
+Monday,16/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Monday,16/10/2023,Gettind Ready,Good,60,Personal Care & Wellbeing,0
+Monday,16/10/2023,F2F Class,Okay,360,Education & Learning,0
+Monday,16/10/2023,Leisure,Great,240,Leisure & Entertainment,1
+Monday,16/10/2023,Learn Rust,Great,160,Education & Learning,3
+Monday,16/10/2023,Traveling home,Okay,45,Transportation & Commute,1
+Monday,16/10/2023,Class,Good,15,Education & Learning,1
+Monday,16/10/2023,Takes a bath,Okay,17,Personal Care & Wellbeing,2
+Monday,16/10/2023,Leisure,Great,220,Leisure & Entertainment,1
+Monday,16/10/2023,School transport,Okay,34,Transportation & Commute,0
+Monday,16/10/2023,Analytics class,Great,152,Education & Learning,3
+Monday,16/10/2023,Sleep,Good,88,Personal Care & Wellbeing,1
+Monday,16/10/2023,Lunch,Good,22,Meals & Nutrition,2
+Monday,16/10/2023,Dinner,Great,24,Meals & Nutrition,2
+Monday,16/10/2023,Automata review,Great,302,Education & Learning,3
+Monday,16/10/2023,Social media,Great,58,Leisure & Entertainment,1
+Monday,16/10/2023,Automata review,Okay,237,Education & Learning,3
+Monday,16/10/2023,Breakfast,Great,13,Meals & Nutrition,3
+Tuesday,17/10/2023,Takes a bath,Okay,17,Personal Care & Wellbeing,2
+Monday,17/10/2023,Sleep,Okay,302,Personal Care & Wellbeing,3
+Tuesday,17/10/2023,Shower,Great,45,Personal Care & Wellbeing,3
+Tuesday,17/10/2023,F2F Class,Okay,90,Education & Learning,0
+Tuesday,17/10/2023,Sleep,Good,480,Personal Care & Wellbeing,2
+Tuesday,17/10/2023,Shower,Great,45,Personal Care & Wellbeing,3
+Tuesday,17/10/2023,Sleep,Okay,448,Personal Care & Wellbeing,3
+Tuesday,17/10/2023,Watch Tiktok,Great,60,Leisure & Entertainment,2
+Tuesday,17/10/2023,Dinner,Great,14,Meals & Nutrition,2
+Tuesday,17/10/2023,Networking class,Okay,154,Education & Learning,3
+Tuesday,17/10/2023,Lunch,Good,17,Meals & Nutrition,2
+Tuesday,17/10/2023,Watching Movie,Okay,60,Leisure & Entertainment,1
+Tuesday,17/10/2023,Breakfast,Good,13,Meals & Nutrition,3
+Tuesday,17/10/2023,Thinking about future,Great,28,Personal Care & Wellbeing,3
+Tuesday,17/10/2023,Sleep,Okay,153,Personal Care & Wellbeing,2
+Tuesday,17/10/2023,Brunch,Good,15,Meals & Nutrition,1
+Tuesday,17/10/2023,Automata midterm,Okay,87,Education & Learning,3
+Tuesday,17/10/2023,School transport,Great,32,Transportation & Commute,0
+Tuesday,17/10/2023,Play Basketball,Great,60,Leisure & Entertainment,3
+Tuesday,17/10/2023,Dinner,Good,30,Meals & Nutrition,2
+Tuesday,17/10/2023,Traveling home,Good,45,Transportation & Commute,0
+Tuesday,17/10/2023,Play games,Great,152,Leisure & Entertainment,1
+Tuesday,17/10/2023,Sleep,Good,450,Personal Care & Wellbeing,3
+Tuesday,17/10/2023,Breakfast,Good,10,Meals & Nutrition,2
+Tuesday,17/10/2023,Check news ,Okay,20,Leisure & Entertainment,2
+Tuesday,17/10/2023,Learn Python,Great,190,Education & Learning,3
+Tuesday,17/10/2023,Leisure,Good,250,Leisure & Entertainment,1
+Tuesday,17/10/2023,Linux System Maintenance,Good,20,Education & Learning,3
+Tuesday,17/10/2023,Work on activities & assignments,Good,240,Work & Productivity,3
+Tuesday,17/10/2023,Leisure,Great,160,Leisure & Entertainment,1
+Tuesday,17/10/2023,Lunch,Good,20,Meals & Nutrition,2
+Tuesday,17/10/2023,Dinner,Good,20,Meals & Nutrition,2
+Wednesday,18/10/2023,Leisure,Great,160,Leisure & Entertainment,1
+Wednesday,18/10/2023,Nap,Great,240,Personal Care & Wellbeing,3
+Wednesday,18/10/2023,Sleep,Good,448,Personal Care & Wellbeing,3
+Wednesday,18/10/2023,Play games,Great,152,Leisure & Entertainment,1
+Wednesday,18/10/2023,Sleep,Good,540,Personal Care & Wellbeing,3
+Wednesday,18/10/2023,Watching Movie,Great,60,Leisure & Entertainment,2
+Wednesday,18/10/2023,Learn Coding with LeetCode,Great,100,Education & Learning,3
+Wednesday,18/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Wednesday,18/10/2023,Going home ,Great,60,Transportation & Commute,2
+Wednesday,18/10/2023,Shower,Good,45,Personal Care & Wellbeing,2
+Wednesday,18/10/2023,Nap,Great,90,Personal Care & Wellbeing,2
+Wednesday,18/10/2023,Industry Elective Class,Good,150,Education & Learning,3
+Wednesday,18/10/2023,Online Class ,Okay,150,Education & Learning,0
+Wednesday,18/10/2023,Data Management 2 Class (Online),Good,150,Education & Learning,3
+Wednesday,18/10/2023,Go to school,Good ,60,Transportation & Commute,3
+Wednesday,18/10/2023,F2F Class,Okay,150,Education & Learning,0
+Wednesday,18/10/2023,Traveling home,Okay,45,Transportation & Commute,0
+Wednesday,18/10/2023,Brunch,Great,15,Meals & Nutrition,2
+Wednesday,18/10/2023,Gettind Ready,Great,25,Personal Care & Wellbeing,1
+Wednesday,18/10/2023,Leisure,Good,150,Leisure & Entertainment,1
+Wednesday,18/10/2023,Play games,Great,152,Leisure & Entertainment,1
+Wednesday,18/10/2023,Dinner,Great,15,Meals & Nutrition,2
+Wednesday,18/10/2023,Networking review,Great,328,Education & Learning,3
+Wednesday,18/10/2023,Social media,Great,88,Leisure & Entertainment,1
+Wednesday,18/10/2023,Breakfast,Great,14,Meals & Nutrition,3
+Wednesday,18/10/2023,Play with cats,Great,34,Leisure & Entertainment,3
+Wednesday,18/10/2023,Dinner,Great,22,Meals & Nutrition,2
+Wednesday,18/10/2023,Linux System Maintenance,Good,30,Education & Learning,3
+Wednesday,18/10/2023,Preparing for Industry Elective Class (F2P),Good,60,Education & Learning,2
+Wednesday,18/10/2023,Lunch,Good,23,Meals & Nutrition,2
+Wednesday,18/10/2023,Breakfast,Good,30,Meals & Nutrition,3
+Thursday,19/10/2023,Linux System Maintenance,Great,30,Education & Learning,3
+Thursday,19/10/2023,Leisure,Great,160,Leisure & Entertainment,1
+Thursday,19/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Thursday,19/10/2023,Leisure,Great,190,Leisure & Entertainment,1
+Thursday,19/10/2023,Work on activities & assignments,Good,210,Work & Productivity,3
+Thursday,19/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Thursday,19/10/2023,Checking Github,Good,30,Work & Productivity,2
+Thursday,19/10/2023,Learning Rust,Good,70,Education & Learning,3
+Thursday,19/10/2023,Leisure,Good,120,Leisure & Entertainment,1
+Thursday,19/10/2023,Sleep,Good,510,Personal Care & Wellbeing,3
+Thursday,19/10/2023,Analytics review,Great,152,Education & Learning,3
+Thursday,19/10/2023,Play with cats,Great,34,Leisure & Entertainment,3
+Thursday,19/10/2023,Breakfast,Good,20,Meals & Nutrition,3
+Thursday,19/10/2023,Watching Movie,Good,60,Leisure & Entertainment,1
+Thursday,19/10/2023,Sleep,Great,480,Personal Care & Wellbeing,3
+Thursday,19/10/2023,Dinner,Good,15,Meals & Nutrition,1
+Thursday,19/10/2023,Dinner,Great,15,Meals & Nutrition,3
+Thursday,19/10/2023,Traveling home,Okay,45,Transportation & Commute,0
+Thursday,19/10/2023,F2F Class,Okay,240,Education & Learning,0
+Thursday,19/10/2023,Play games,Great,240,Leisure & Entertainment,3
+Thursday,19/10/2023,Accenture udemy,Great,122,Education & Learning,3
+Thursday,19/10/2023,Watching Movie,Great,60,Leisure & Entertainment,3
+Thursday,19/10/2023,Shower,Okay,45,Personal Care & Wellbeing,0
+Thursday,19/10/2023,Dinner,Great,22,Meals & Nutrition,2
+Thursday,19/10/2023,Networking midterm,Okay,58,Education & Learning,3
+Thursday,19/10/2023,School transport,Great,34,Transportation & Commute,0
+Thursday,19/10/2023,Takes a bath,Great,22,Personal Care & Wellbeing,2
+Thursday,19/10/2023,Lunch,Great,13,Meals & Nutrition,2
+Thursday,19/10/2023,Networking review,Great,122,Education & Learning,3
+Thursday,19/10/2023,Social media,Great,58,Leisure & Entertainment,1
+Thursday,19/10/2023,Breakfast,Great,22,Meals & Nutrition,3
+Thursday,19/10/2023,Brunch,Good,15,Meals & Nutrition,1
+Friday,20/10/2023,Leisure,Good,70,Leisure & Entertainment,3
+Friday,20/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Friday,20/10/2023,Leisure,Good,380,Leisure & Entertainment,1
+Friday,20/10/2023,Shower,Great,45,Personal Care & Wellbeing,3
+Friday,20/10/2023,Sleep,Great,480,Personal Care & Wellbeing,3
+Friday,20/10/2023,Softeng coding,Okay,208,Education & Learning,3
+Friday,20/10/2023,Data Analytics Class,Good,150,Education & Learning,3
+Friday,20/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Friday,20/10/2023,Going home ,Good,30,Transportation & Commute,3
+Friday,20/10/2023,Lunch,Good,22,Meals & Nutrition,2
+Friday,20/10/2023,Analytics midterm,Great,58,Education & Learning,3
+Friday,20/10/2023,F2F Class,Okay,150,Education & Learning,0
+Thursday,20/10/2023,Sleep,Okay,237,Personal Care & Wellbeing,2
+Friday,20/10/2023,Sleep,Okay,478,Personal Care & Wellbeing,3
+Friday,20/10/2023,Play games,Great,122,Leisure & Entertainment,1
+Friday,20/10/2023,Dinner,Great,24,Meals & Nutrition,3
+Friday,20/10/2023,Breakfast,Great,18,Meals & Nutrition,3
+Friday,20/10/2023,School transport,Okay,32,Transportation & Commute,0
+Friday,20/10/2023,Browsing internet,Good,25,Leisure & Entertainment,1
+Friday,20/10/2023,Check news ,Great,20,Leisure & Entertainment,1
+Friday,20/10/2023,Watch movies,Great,60,Leisure & Entertainment,3
+Friday,20/10/2023,F2F Class,Okay,120,Education & Learning,0
+Friday,20/10/2023,Online Class ,Good,90,Education & Learning,2
+Friday,20/10/2023,Play Basketball,Great,150,Leisure & Entertainment,3
+Friday,20/10/2023,Sleep,Good,480,Personal Care & Wellbeing,2
+Friday,20/10/2023,Work on activities & assignments,Good,220,Work & Productivity,3
+Friday,20/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Friday,20/10/2023,Linux System Maintenance,Good,20,Education & Learning,3
+Friday,20/10/2023,Traveling home,Okay,30,Transportation & Commute,0
+Saturday,21/10/2023,Preparing for Industry Elective Class (F2P),Good,120,Education & Learning,3
+Saturday,21/10/2023,Industry Elective Class,Good,150,Education & Learning,3
+Saturday,21/10/2023,Going home ,Great,60,Transportation & Commute,2
+Saturday,21/10/2023,Social media,Great,28,Leisure & Entertainment,1
+Saturday,21/10/2023,Breakfast,Great,13,Meals & Nutrition,3
+Saturday,21/10/2023,Play with cats,Great,34,Leisure & Entertainment,3
+Saturday,21/10/2023,Softeng coding,Great,268,Education & Learning,3
+Saturday,21/10/2023,Lunch,Great,23,Meals & Nutrition,2
+Saturday,21/10/2023,Dinner,Great,24,Meals & Nutrition,2
+Saturday,21/10/2023,Data Management 2 Class (Online),Good,150,Education & Learning,3
+Saturday,21/10/2023,Softeng coding,Great,122,Education & Learning,3
+Saturday,21/10/2023,Sleep,Great,478,Personal Care & Wellbeing,3
+Saturday,21/10/2023,Leisure,Good,180,Leisure & Entertainment,1
+Saturday,21/10/2023,Play games,Great,208,Leisure & Entertainment,1
+Saturday,21/10/2023,Work on activities & assignments,Good,100,Work & Productivity,3
+Saturday,21/10/2023,Sleep,Good,520,Personal Care & Wellbeing,3
+Saturday,21/10/2023,Check news ,Good,20,Leisure & Entertainment,3
+Saturday,21/10/2023,Breakfast,Good,30,Meals & Nutrition,3
+Saturday,21/10/2023,Leisure,Great,180,Leisure & Entertainment,1
+Saturday,21/10/2023,Linux System Maintenance,Good,10,Education & Learning,3
+Saturday,21/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Sunday,22/10/2023,Check news ,Good,30,Leisure & Entertainment,2
+Sunday,22/10/2023,Leisure,Good,60,Leisure & Entertainment,1
+Sunday,22/10/2023,Going out to eat with family,Great,120,Social & Family Life,3
+Sunday,22/10/2023,Sunday Mass,Good,60,Social & Family Life,3
+Sunday,22/10/2023,Sleep,Good,390,Personal Care & Wellbeing,3
+Sunday,22/10/2023,Work on activities & assignments,Good,220,Work & Productivity,3
+Sunday,22/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Sunday,22/10/2023,Leisure,Great,110,Leisure & Entertainment,1
+Sunday,22/10/2023,Linux System Maintenance,Good,20,Education & Learning,3
+Sunday,22/10/2023,Leisure,Good,60,Leisure & Entertainment,1
+Sunday,22/10/2023,Work on activities & assignments,Good,120,Work & Productivity,3
+Sunday,22/10/2023,Breakfast,Good,20,Meals & Nutrition,3
+Monday,23/10/2023,Going home ,Good,50,Transportation & Commute,2
+Monday,23/10/2023,Leisure,Great,220,Leisure & Entertainment,1
+Monday,23/10/2023,Sleep,Good,480,Personal Care & Wellbeing,3
+Monday,23/10/2023,Dinner,Good,20,Meals & Nutrition,3
+Monday,23/10/2023,Leisure,Great,240,Leisure & Entertainment,1
+Monday,23/10/2023,Learning about Linux Systems Programming,Great,160,Education & Learning,3
+Monday,23/10/2023,Lunch,Good,20,Meals & Nutrition,3
+Monday,23/10/2023,Leisure,Good,40,Leisure & Entertainment,1
+Monday,23/10/2023,Linux System Maintenance,Good,30,Education & Learning,3
+Monday,23/10/2023,Data Analytics Class,Good,150,Education & Learning,3

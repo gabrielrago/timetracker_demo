@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import base64
 import plotly.graph_objs as go
 
-csv_file_path = "assets/timetracker2.csv"
+csv_file_path = "assets/Filtered_Group16_Final_Combined_Tracker.csv"
 df = pd.read_csv(csv_file_path)
 
 app = Dash(__name__)
@@ -14,7 +14,7 @@ server = app.server
 
 datelist = df['Date'].unique()
 
-activity_descriptions = ' '.join(df['Activity Description'])
+activity_descriptions = ' '.join(df['Activity'])
 
 # Create the word cloud
 wordcloud = WordCloud(width=800, height=400, background_color='white').generate(activity_descriptions)
@@ -44,10 +44,10 @@ how_i_feel_fig.update_layout(
 )
 
 # Convert the "Duration" column to numeric values
-df["Duration"] = df["Duration"].str.extract('(\d+)').astype(float)
+df["Duration (mins)"] = pd.to_numeric(df["Duration (mins)"])
 
 # Calculate the average duration
-average_duration = df["Duration"].mean()
+average_duration = df["Duration (mins)"].mean()
 
 # Create a bar chart for the average duration
 average_duration_fig = px.bar(
@@ -104,8 +104,9 @@ def generate_bar_chart(selected_date):
     filtered_df = df[df['Date'] == selected_date]
     bar_fig = px.bar(
         filtered_df,
-        x='Activity Description',
-        y='Duration',
+        x='Duration (mins)',
+        y='Generalized Activity',
+        orientation='h',  # Set orientation to horizontal
         color_discrete_sequence=['#f9e2af'],
         title=f'Activity Durations on {selected_date}',
     )
@@ -125,7 +126,7 @@ def generate_duration_vs_value(selected_date):
     filtered_df = df[df['Date'] == selected_date]
     scatter_fig = px.bar(
         filtered_df,
-        x='Duration',
+        x='Duration (mins)',
         y='Value',
         color_discrete_sequence=['#f5e0dc'],
         title=f'Bar Plot of Duration vs. Value on {selected_date}',
@@ -140,18 +141,18 @@ def generate_radar_chart(selected_date):
     productivity_scores = []
     for category in categories:
         if category == "Unproductive":
-            productivity_scores.append(filtered_df[filtered_df['Activity Description'] == "Leisure"]['Activity Description'].count())
+            productivity_scores.append(filtered_df[filtered_df['Activity'] == "Leisure"]['Activity'].count())
         elif category == "Neutral":
             neutral_activities = ["Lunch", "Dinner", "Breakfast"]
             neutral_count = 0
             for activity in neutral_activities:
-                neutral_count += filtered_df[filtered_df['Activity Description'] == activity]['Activity Description'].count()
+                neutral_count += filtered_df[filtered_df['Activity'] == activity]['Activity'].count()
             productivity_scores.append(neutral_count)
         else:
             productivity_scores.append(
                 filtered_df[
-                    ~filtered_df['Activity Description'].isin(["Leisure", "Lunch", "Dinner", "Breakfast"])
-                ]['Activity Description'].count()
+                    ~filtered_df['Activity'].isin(["Leisure", "Lunch", "Dinner", "Breakfast", "Play games", "Play online games"])
+                ]['Activity'].count()
             )
 
     radar_fig = go.Figure()
@@ -167,7 +168,7 @@ def generate_radar_chart(selected_date):
         polar=dict(
             radialaxis=dict(
                 visible=True,
-                range=[0, df['Activity Description'].count()]  # Adjust the range based on your productivity score scale
+                range=[0, df['Activity'].count()]  # Adjust the range based on your productivity score scale
             )
         ),
         showlegend=False
@@ -191,12 +192,12 @@ def generate_radar_chart(selected_date):
 
 def update_activity_description_pie_chart(selected_date):
     filtered_df = df[df['Date'] == selected_date]
-    activity_counts = filtered_df['Activity Description'].value_counts().reset_index()
-    activity_counts.columns = ["Activity Description", "Count"]
+    activity_counts = filtered_df['Activity'].value_counts().reset_index()
+    activity_counts.columns = ["Activity", "Count"]
 
     fig = px.pie(
         activity_counts,
-        names="Activity Description",
+        names="Activity",
         values="Count",
         title=f"Activity Description Distribution on {selected_date}",
         hole=0.3,
@@ -326,7 +327,7 @@ def update_plots(selected_date):
 
     pie_fig = px.pie(
         filtered_df,
-        title=f'How I feel on {selected_date}',
+        title=f'How We feel on {selected_date}',
         names='How I feel',
         color_discrete_sequence=['#f38ba8','#a6e3a1','#f9e2af','#fab387']
     )
